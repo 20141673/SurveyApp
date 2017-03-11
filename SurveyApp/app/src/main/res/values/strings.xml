@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">SurveyApp</string>
+    <string name="app_name1">SurveyApp:Step1</string>
+    <string name="app_name2">SurveyApp:Step2</string>
+    <string name="app_name3">SurveyApp:Step3</string>
+    <string name="app_name4">SurveyApp:Step4</string>
+    <string name="app_name5">SurveyApp:Step5</string>
+    <string name="app_name6">SurveyApp:Step6</string>
+    <string name="app_name7">SurveyApp:Step7</string>
+    <string name="app_name8">SurveyApp:Step8</string>
+    <string name="app_name9">SurveyApp:Step9</string>
+    <string name="app_name10">SurveyApp:Step10</string>
+    <string name="app_name11">SurveyApp:Step11</string>
+    <string name="app_name12">SurveyApp:Step12</string>
+    <string name="qustion1">What is your gender?</string>
+    <string name="qustion2">What is your age?</string>
+    <string name="qustion3">Where are you from?</string>
+    <string name="qustion4">Is your country :Algeria?</string>
+    <string name="qustion5">Your academic discipline?</string>
+    <string name="qustion6">Education level(now)?</string>
+    <string name="qustion7">Do you use Internet in China?</string>
+    <string name="qustion8">Do you use Internet before coming to China?</string>
+    <string name="qustion9">How long have you been in China?</string>
+    <string name="qustion10">Can you speak Chinese characteres?</string>
+    <string name="qustion11">Have you take any HSK exams?</string>
+    <string name="qustion12">The reason why you come to China:</string>
+    <string name="txtstart1">
+        Thank you for take apart to this.That will be a short survey,but we need you to be as honest as posible
+    </string>
+    <string name="txtstart2">
+        We will just focus on the main information we need,avoiding to take too much of your time.
+    </string>
+    <string name="txtstart3">
+        Please press the button below if you are ready.
+    </string>
+    <string name="test">\@string/qustion8</string>
+    <string name="test1" />
+</resources>

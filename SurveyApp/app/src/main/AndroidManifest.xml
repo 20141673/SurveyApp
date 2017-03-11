@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="cn.edu.cqu.surveyapp">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme"
+        android:name=".MyApplication">
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".FirstQActivity"
+            android:label="@string/app_name1" />
+        <activity android:name=".SecondQActivity"
+            android:label="@string/app_name2"/>
+        <activity android:name=".ThirdQActivity"
+            android:label="@string/app_name3"/>
+        <activity android:name=".FourthQActivity"
+            android:label="@string/app_name4"/>
+        <activity android:name=".FifthQActivity"
+            android:label="@string/app_name5"/>
+        <activity android:name=".SixQActivity"
+            android:label="@string/app_name6"/>
+        <activity android:name=".SevenQActivity"
+            android:label="@string/app_name7"/>
+        <activity android:name=".EightQActivity"
+            android:label="@string/app_name8"/>
+        <activity android:name=".NineQActivity"
+            android:label="@string/app_name9"/>
+        <activity android:name=".TenQActivity"
+            android:label="@string/app_name10"/>
+        <activity android:name=".EleQActivity"
+            android:label="@string/app_name11"/>
+        <activity android:name=".TwlQActivity"
+            android:label="@string/app_name12"/>
+        <activity android:name=".DoneActivity"></activity>
+
+    </application>
+
+</manifest>
